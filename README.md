@@ -1,3 +1,4 @@
-# My Awesome Book
+# Cartas de versão
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Nesse documento, estarão contidas as cartas de versão da aplicação
+
