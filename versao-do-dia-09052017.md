@@ -15,6 +15,7 @@ Itens sinalizados via e-mail:
 * Impressão da receita não está vindo o número do CPF completo;
 
 * PRESCRIÇÃO: Número do CPF não está vindo completo e o intervalo da medicação e a duração n estão vindo na impressão;
+
 * DIAGNOSTICOS - Na impressão do exame não está vindo o nome do médico e o CRM;
 * IMAGEM - Na impressão do exame não está vindo o nome do médico e o CRM;
 * LABORATORIAL - Na impressão do exame não está vindo o nome do médico e o CRM;
