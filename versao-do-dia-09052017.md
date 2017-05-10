@@ -10,13 +10,14 @@ Itens da planilha Excel:
 
 Itens sinalizados via e-mail:
 
-* Primeiro diagnóstico aparecendo várias vezes no atendimento médico; 
+* Primeiro diagnóstico aparecendo várias vezes no atendimento médico;
 
 * Impressão da receita não está vindo o número do CPF completo;
+
 * PRESCRIÇÃO: Número do CPF não está vindo completo e o intervalo da medicação e a duração n estão vindo na impressão;
-* Na impressão do exame não está vindo o nome do médico e o CRM;
-* Na impressão do exame não está vindo o nome do médico e o CRM;
-* Na impressão do exame não está vindo o nome do médico e o CRM;
+* DIAGNOSTICOS - Na impressão do exame não está vindo o nome do médico e o CRM;
+* IMAGEM - Na impressão do exame não está vindo o nome do médico e o CRM;
+* LABORATORIAL - Na impressão do exame não está vindo o nome do médico e o CRM;
 * ATESTADO: CPF incompleto e data de atendimento em formato americano, contendo um número depois;    
 * EVOLUÇÃO: Hora do atendimento está ficando incompleta;
 * Layout da evolução fica desconfigurado quando a mesma é salva;
