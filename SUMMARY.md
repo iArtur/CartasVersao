@@ -9,4 +9,5 @@
 * [Versão do dia 03/05/2017 V 0.10.110](versao-do-dia-03052017-v-010110.md)
 * [Versão do dia 09/05/2017](versao-do-dia-09052017.md)
 * [Versão do dia 10/05/2017](versao-do-dia-10052017.md)
+* [Versão do dia 29/05/2017](versao-do-dia-29052017.md)
 
