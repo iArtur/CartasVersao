@@ -2,7 +2,7 @@
 
 Itens contemplados nessa versão:
 
-Correção dos relatórios
+Correção dos relatórios 
 
 * PROCEDIMENTO POR POSTO DE ENFERMAGEM: MEDICAÇÃO
 
