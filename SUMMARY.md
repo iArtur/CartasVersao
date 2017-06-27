@@ -11,5 +11,5 @@
 * [Versão do dia 10/05/2017](versao-do-dia-10052017.md)
 * [Versão do dia 29/05/2017](versao-do-dia-29052017.md)
 * [Versão do dia 06/05/2017](versao-do-dia-05062017.md)
-* [Versão dia dia 27/06/2017](versao-dia-dia-27062017.md)
+* [Versão dia dia 27/06/2017](versao-dia-27062017.md)
 
